@@ -64,8 +64,6 @@ params:
               url: courses/
             - name: Projects
               url: data/
-            - name: Tags
-              url: tags/
             - name: Archive
               url: archive/
             - name: Blog
