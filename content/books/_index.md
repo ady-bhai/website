@@ -1,4 +1,4 @@
 ---
 title: "Books"
-description: "Books Reviews by Ady."
+description: "Books Reviews by Ady"
 ---
