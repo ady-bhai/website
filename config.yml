@@ -49,7 +49,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
+          title: Ady Mehta
           subtitle: "I'm a student at Berkeley and I like learning math, economics, finance, cognition, and computation. I hope to apply these toward building cool products, writing effective algorithms, and researching human decision-making."
           imageUrl: "picture.jpeg"
           imageWidth: 160
