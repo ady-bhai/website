@@ -21,10 +21,7 @@ disableAnchoredHeadings: false
 
 ##### Description
 
-This book discusses Portugese irregular verbs in great details. It is the seminal work on Romance philology.[^1] The book is the result of years of research into the etymology and vagaries of Portuguese verbs.[^2] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+One of the easiest to digest yet solid substance books out there. Practical, insightful, and dense.
 
 [^1]: The acknowledged aim of the book is to dwarf all other books in the field.
 [^2]: As a result of such intensive research, the book's length is almost twelve hundred pages.
