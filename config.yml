@@ -25,7 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "I'm a student at Berkeley and I like learning math, economics, finance, cognition, and computation. I hope to apply these toward building cool products, writing effective algorithms, and researching human decision-making."
+    description: "I'm a student at Berkeley and I about like learning math, economics, finance, cognition, and computation. I hope to apply these toward building cool products, writing effective algorithms, and researching human decision-making."
     author: Ady Mehta
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
