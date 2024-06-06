@@ -33,26 +33,3 @@ One of the easiest to digest yet solid substance books out there. Practical, ins
 > There is nothing more to be said on this subject. Nothing – Anonymous reviewer
 
 ---
-
-##### Download
-
-+ [Chapter 1: History of the Portuguese language](chapter1.pdf)
-+ [Chapter 2: Review of regular verbs](chapter2.pdf)
-+ [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
-+ [Chapter 4: Further reflections on irregular verbs](chapter4.pdf)
-
----
-
-##### Citation
-
-Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, Germany: Regensburg University Press. https://en.wikipedia.org/wiki/Portuguese_Irregular_Verbs.
-
-```BibTeX
-@book{V04,
-author = {Moritz-Maria von Igelfeld},
-year = {1997},
-title = {Portugese Irregular Verbs},
-publisher = {Regensburg University Press},
-address = {Regensburg, Germany},
-url = {https://en.wikipedia.org/wiki/Portuguese_Irregular_Verbs}}
-```
