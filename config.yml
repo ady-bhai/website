@@ -73,7 +73,7 @@ params:
 
     socialIcons:
         - name: Email
-          url: ady.s.miti@gmail.com
+          url: ady.s.miti@gmail.com/
         - name: CV
           url: cv.pdf
         - name: Office Hours
