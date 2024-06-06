@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Ady Mehta
 paginate: 20
 theme: PaperMod
 
@@ -20,16 +20,12 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
         - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 5
+          weight: 4
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
-consequat."
+    description: "I'm a student at Berkeley and I like learning math, economics, finance, cognition, and computation. I hope to apply these toward building cool products, writing effective algorithms, and researching human decision-making."
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
