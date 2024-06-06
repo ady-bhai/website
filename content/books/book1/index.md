@@ -1,11 +1,10 @@
 ---
-title: "Portugese Irregular Verbs" 
-date: 1997-01-01
+title: "Zero to One" 
+date: 2023-07-04
 lastmod: 2024-05-08
-tags: ["Portugese","irregular verbs","philology"]
-author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+tags: ["Startups","Knowledge","Funny"]
+author: ["Peter Thiel"]
+Review: "One of the easiest to digest yet solid substance books out there. Practical, insightful, and dense."
 cover:
     image: "book1.png"
     alt: "Portugese Irregular Verbs"
