@@ -27,9 +27,3 @@ One of the easiest to digest yet solid substance books out there. Practical, ins
 [^2]: As a result of such intensive research, the book's length is almost twelve hundred pages.
 
 ---
-
-##### Praise
-
-> There is nothing more to be said on this subject. Nothing – Anonymous reviewer
-
----
